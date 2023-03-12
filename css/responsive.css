@@ -1,0 +1,334 @@
+@media (max-width: 575.98px) { 
+    
+    .email a {
+        font-size: 12px !important;
+      }
+      
+      .dropdown {
+        margin-right: 14px !important;
+      }
+      
+      .dropdown h4 {
+        font-size: 14px !important;
+      }
+      
+      .email a i {
+        padding-right: 3px !important;
+      }
+      
+      .header_icon {
+        padding-right: 4px !important;
+      }
+      
+      .header_icon a i {
+        padding-left: 2px !important;
+      }
+      
+      .header_button a {
+        font-size: 14px !important;
+        padding: 15px 8px !important;
+      }
+      
+    
+    .phone h4 {
+        font-size: 14px !important;
+      }
+      
+      .phone h3 {
+        font-size: 14px !important;
+      }
+      
+      .time h4 {
+        font-size: 14px !important;
+      }
+      
+      .time h3 {
+        font-size: 14px !important;
+      }
+      
+      .time i {
+        width: 30px !important;
+        height: 30px !important;
+        line-height: 30px !important;
+      }
+      .phone i {
+        width: 30px !important;
+        height: 30px !important;
+        line-height: 30px !important;
+      }
+      
+      .time {
+        padding-left: 35px !important;
+      }
+      .phone {
+        padding-left: 35px !important;
+      }
+      
+      .phone {
+        margin-right: 7px !important;
+      }
+  
+
+#banner h1 {
+    font-size: 50px !important;
+  }
+  
+.poduct_item h3 {
+    font-size: 18px !important;
+  }
+  
+.client_header h2 {
+    font-size: 43px !important;
+    padding-bottom: 42px !important;
+  }
+  
+  
+  #client > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) {
+    margin: 50px 0 !important;
+  }
+  .footer_logo .button {
+    padding: 10px 12px 10px 14px!important;
+    margin-bottom: 20px!important;
+  }
+  
+  .footer_logo a h4 {
+    padding-bottom: 0px!important;
+  }
+  
+  .footer_logo a h5 {
+    font-size: 17px!important;
+  }
+  
+  .footer_logo .button i {
+    top: 27%!important;
+    right: 5%!important;
+    font-size: 26px!important;
+    z-index: 0!important;
+  }
+  
+  .footer_form form label {
+    padding-left:17px !important;
+    padding-right: 0px !important;
+  }
+ }
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    
+    .email a {
+        font-size: 12px !important;
+      }
+      
+      .dropdown {
+        margin-right: 14px !important;
+      }
+      
+      .dropdown h4 {
+        font-size: 14px !important;
+      }
+      
+      .email a i {
+        padding-right: 3px !important;
+      }
+      
+      .header_icon {
+        padding-right: 4px !important;
+      }
+      
+      .header_icon a i {
+        padding-left: 2px !important;
+      }
+      
+      .header_button a {
+        font-size: 14px !important;
+        padding: 15px 8px !important;
+      }
+      
+    
+    .phone h4 {
+        font-size: 14px !important;
+      }
+      
+      .phone h3 {
+        font-size: 14px !important;
+      }
+      
+      .time h4 {
+        font-size: 14px !important;
+      }
+      
+      .time h3 {
+        font-size: 14px !important;
+      }
+      
+      .time i {
+        width: 30px !important;
+        height: 30px !important;
+        line-height: 30px !important;
+      }
+      .phone i {
+        width: 30px !important;
+        height: 30px !important;
+        line-height: 30px !important;
+      }
+      
+      .time {
+        padding-left: 35px !important;
+      }
+      .phone {
+        padding-left: 35px !important;
+      }
+      
+      .phone {
+        margin-right: 7px !important;
+      }
+  
+
+#banner h1 {
+    font-size: 50px !important;
+  }
+  
+.poduct_item h3 {
+    font-size: 18px !important;
+  }
+  
+.client_header h2 {
+    font-size: 43px !important;
+    padding-bottom: 42px !important;
+  }
+  
+  
+  #client > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) {
+    margin: 50px 0 !important;
+  }
+  .footer_logo .button {
+    padding: 10px 12px 10px 14px!important;
+    margin-bottom: 20px!important;
+  }
+  
+  .footer_logo a h4 {
+    padding-bottom: 0px!important;
+  }
+  
+  .footer_logo a h5 {
+    font-size: 17px!important;
+  }
+  
+  .footer_logo .button i {
+    top: 27%!important;
+    right: 5%!important;
+    font-size: 26px!important;
+    z-index: 0!important;
+  }
+  
+  .footer_form form label {
+    padding-left:17px !important;
+    padding-right: 0px !important;
+  }
+ }
+
+ @media (min-width: 768px) and (max-width: 991.98px) { 
+    
+
+.client_item {
+    margin-top: 20px !important;
+  }
+  
+  .footer_icon i {
+    padding: 0px 5px !important;
+  }
+  
+  .footer_form a {
+    padding: 23px 26px !important;
+    font-size: 14px !important;
+  }
+  
+  .footer_form form label {
+    padding-left: 15px !important;
+    padding-right: 0px !important;
+  }
+  
+  .footer_form form input {
+    font-size: 10px !important;
+  }
+  
+  }
+ @media (min-width: 992) and (max-width: 1199.98px) { 
+    
+
+.client_item {
+    margin-top: 20px !important;
+  }
+  
+  .footer_icon i {
+    padding: 0px 5px !important;
+  }
+  
+  .footer_form a {
+    padding: 23px 26px !important;
+    font-size: 14px !important;
+  }
+  
+  .footer_form form label {
+    padding-left: 15px !important;
+    padding-right: 0px !important;
+  }
+  
+  .footer_form form input {
+    font-size: 10px !important;
+  }
+.nav_menu ul li a {
+    padding-right: 45px !important;
+  }
+  
+  #banner h1 {
+    font-size: 54px !important;
+  }
+  
+  .client_header h2 {
+    font-size: 52px !important;
+  }
+  
+
+  
+  .footer_form form label {
+    padding-left: 10px !important;
+    padding-right: 3px !important;
+  }
+  
+  .footer_form form input {
+    font-size: 14px !important;
+  }
+div.col-md-6:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > img:nth-child(1) {
+    width: 100%;
+  }
+  
+  
+  div.col-md-6:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > img:nth-child(1) {
+    width: 100%;
+  }
+  .footer_icon i {
+    padding: 0 4px !important;
+  }
+  
+  .footer_form form label {
+    padding-left: 18px !important;
+    padding-right: 2px !important;
+  }
+  
+  .footer_form form input {
+    font-size: 14px !important;
+  }
+  .footer_icon i {
+	padding: 0 4px !important;
+}
+
+
+
+
+
+
+
+
+
+
+  }
+    
